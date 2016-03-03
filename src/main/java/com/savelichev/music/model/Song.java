@@ -13,7 +13,6 @@ public class Song {
 	}
 
 	public Song(int songId, String songTitle, int artistId) {
-		super();
 		this.songId = songId;
 		this.songTitle = songTitle;
 		this.artistId = artistId;
